@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body {
+	background-color: #000000;
+}
+
+#content {
+	padding-top: 100px;
+	font-family: courier new;
+	color: #ffffff;
+	text-align: center;
+}
+
+#links {
+	font-size: 20px;
+
+}
+
+a {
+  color: #44edaf;
+  text-decoration: none;
+}
